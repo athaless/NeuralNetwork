@@ -1,4 +1,4 @@
-# NeuralNetwork To Patterns_Recognition
+# NeuralNetwork To Patterns Recognition
 
 This is a simple trying with Neural Network to Patterns_Recognition and a kind of OpenGL to viewing the process.
 
